@@ -17,8 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooJ-K&layout=compact)](https://github.com/YooJ-K/github-readme-stats)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20183172)](https://solved.ac/20183172)
 
 
-<a href="chris3209@pusan.ac.kr">
-  💌 
-</a>
+#### Contact Me! 💌 : chris3209@pusan.ac.kr
