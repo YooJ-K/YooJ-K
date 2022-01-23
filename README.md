@@ -22,5 +22,6 @@
 
 #### Contact Me! 💌 : chris3209@pusan.ac.kr
 
-https://feel-uncomfortable.tistory.com/
-https://blog.naver.com/chris3209
+#### Blog ✍🏻
+- https://feel-uncomfortable.tistory.com/
+- https://blog.naver.com/chris3209
