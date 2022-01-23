@@ -1,11 +1,11 @@
-### Computer Vision 👀
+### Computer Vision Programmer 👀
 
 
 ##### YooJin Kim
 - Majoring in Computer Science Engineering at Pusan National University. 
 - Preparing to go graduate school.
 
-#### I am currently learning these. 👇🏻
+#### I'm currently learning these. 👇🏻
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
