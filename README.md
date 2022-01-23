@@ -16,3 +16,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YooJ-K&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooJ-K&layout=compact)](https://github.com/YooJ-K/github-readme-stats)
+
+#### about Me ⚾️
+
+<img src="https://www.pusan.ac.kr/_contents/kor/_Img/07Intro/ui07.jpg"/></a>
