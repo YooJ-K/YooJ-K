@@ -19,4 +19,4 @@
 
 #### about Me ⚾️
 
-<img src="https://www.pusan.ac.kr/_contents/kor/_Img/07Intro/ui07.jpg"/></a>
+<img src="https://www.pusan.ac.kr/_contents/kor/_Img/07Intro/ui07.jpg"/ width="360px">chris3209@pusan.ac.kr</a>
