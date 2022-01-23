@@ -17,6 +17,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooJ-K&layout=compact)](https://github.com/YooJ-K/github-readme-stats)
 
-#### Contact Me ⚾️
 
-  chris3209@pusan.ac.kr
+
+<a href="chris3209@pusan.ac.kr">
+  💌 
+</a>
