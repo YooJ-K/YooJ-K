@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Vision
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YooJ-K&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooJ-K&layout=compact)](https://github.com/YooJ-K/github-readme-stats)
