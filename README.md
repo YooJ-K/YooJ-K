@@ -2,7 +2,7 @@
 
 
 ##### YooJin Kim
-- Majoring in computer science engineering at Pusan National University. 
+- Majoring in Computer Science Engineering at Pusan National University. 
 - Preparing to go graduate school.
 
 #### I am currently learning these. 👇🏻
