@@ -11,11 +11,18 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
 #### ⚙️ Tool ⚙️
+
 - A tool that I've used more than once for Vision Programming that combines AI.
   - yolov3
   - tensorflow 1.15.x & 2.x.x
   - python
   - openCV in python
+
+- What I learned in college class.
+  - Html, CSS, JavaScript, PHP, MySQL
+  - C, C++
+  - Java
+  - C#
 
 #### Project
 - Construction site Project as an intern : announcement of danger : helmet or none, falldown or not etc.
