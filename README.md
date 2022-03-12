@@ -12,10 +12,10 @@
 
 #### ⚙️ Tool ⚙️
 - A tool that I've used more than once for Vision Programming that combines AI.
-- yolov3
-- tensorflow 1.15.x & 2.x.x
-- python
-- openCV in python
+  - yolov3
+  - tensorflow 1.15.x & 2.x.x
+  - python
+  - openCV in python
 
 #### Project
 - Construction site Project as an intern : announcement of danger : helmet or none, falldown or not etc.
