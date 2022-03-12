@@ -15,6 +15,7 @@
 - yolov3
 - tensorflow 1.15.x & 2.x.x
 - python
+- openCV in python
 
 #### Project
 - Construction site Project as an intern : announcement of danger : helmet or none, falldown or not etc.
