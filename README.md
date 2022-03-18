@@ -18,10 +18,10 @@
   - python
   - openCV in python
 
-- What I learned in college class.
+- What I learned
   - Html, CSS, JavaScript, PHP, MySQL
   - C, C++
-  - Java
+  - Java, Kotlin
   - C#
 
 #### Project
